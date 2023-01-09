@@ -1,0 +1,30 @@
+{
+  "Question 1": [
+    {
+      "city" : "London",
+      "population" : 3200000
+    },
+    {
+      "city" : "Paris",
+      "population" : 800000
+    },
+    {
+      "city" : "Madrid",
+      "population" : 2500000
+    }
+  ],
+  "Question 2": [
+    {
+      "color" : "green",
+      "value" : 10
+    },
+    {
+      "color" : "red",
+      "value" : 30
+    },
+    {
+      "color" : "blue",
+      "value" : 20
+    }
+  ]
+}
